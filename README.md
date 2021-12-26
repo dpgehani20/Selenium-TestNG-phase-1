@@ -6,3 +6,4 @@
 - https://www.javatpoint.com/testng-annotation-attributes
 - https://www.browserstack.com/guide/testng-annotations-in-selenium
 - https://testng.org/doc/
+- recording - https://drive.google.com/drive/folders/1tr0ePk-_Jobc8oB8q93cdcnvRpQE80l_?usp=sharing
