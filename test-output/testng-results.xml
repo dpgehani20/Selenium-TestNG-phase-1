@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-30T17:25:34 IST" name="Default suite" finished-at="2021-12-30T17:25:54 IST" duration-ms="19250">
+    <groups>
+    </groups>
+    <test started-at="2021-12-30T17:25:34 IST" name="Default test" finished-at="2021-12-30T17:25:54 IST" duration-ms="19250">
+      <class name="Dayone.SeleniumTestOne">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Dayone.SeleniumTestOne@101952da]" started-at="2021-12-30T17:25:35 IST" name="setup" finished-at="2021-12-30T17:25:36 IST" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:Dayone.SeleniumTestOne@101952da]" started-at="2021-12-30T17:25:36 IST" name="login" finished-at="2021-12-30T17:25:54 IST" duration-ms="17773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Dayone.SeleniumTestOne@101952da]" started-at="2021-12-30T17:25:54 IST" name="close" finished-at="2021-12-30T17:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Dayone.SeleniumTestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
